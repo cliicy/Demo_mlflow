@@ -1,0 +1,13 @@
+artifact_uri: ..\0\fdda2fb112a44a95bcb07dc644a74289\artifacts
+end_time: 1528384239860
+entry_point_name: ''
+experiment_id: 0
+name: Run 0
+run_uuid: fdda2fb112a44a95bcb07dc644a74289
+source_name: H:/2018_git_task/Demo_mlflow/example/quickstart/DemoTest.py
+source_type: 4
+source_version: ''
+start_time: 1528384239768
+status: 3
+tags: []
+user_id: unknown
